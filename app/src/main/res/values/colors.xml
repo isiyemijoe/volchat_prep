@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#035aa6</color>
+    <color name="colorAccent">#ff5252</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="onBoaerdingIndicatorInactive">#72bcf7</color>
+    <color name="squad">#0779e4</color>
+
+</resources>
